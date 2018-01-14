@@ -17,4 +17,4 @@ int main(void) {
 	printf("%d\n", (1 << N) - 1);
 	dc(N, 1, 3);
 	return 0;
-}
+} 
